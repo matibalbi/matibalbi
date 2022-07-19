@@ -1,13 +1,13 @@
 ![Banner](https://github.com/matibalbi/matibalbi/blob/main/images/Linkedin%20Henry%20STUDENTS-04.png)
-<h1 align="center"> Hola, mi nombre es Matías! 👋 </h1>
+<h1 align="center"> Hi, my name is Matias! 👋 </h1>
 
-## :man_technologist: ¿Quién soy?
+## :man_technologist: About:
 
-Soy Desarrollador Web Full Stack e Ingeniero Industrial, me encanta aplicar lógica y creatividad para resolver problemas y optimizar procesos. Recientemente me egresé del bootcamp de programación de Henry y actualmente estoy buscando mi primera oportunidad laboral en este rubro donde pueda aplicar todos los conocimientos aprendidos y continuar formándome profesionalmente dentro de este maravilloso mundo.
+I'm a Full Stack Developer and Industrial Engineer, I love to apply logic and creativity to solve problems and optimize processes. Recently I graduated from Henry Bootcamp and I'm currently looking for my first job opportunity as a devoloper where I can apply all the skills learned and continue to grow professionally in the amazing world of technology.
 
 ---
 
-## :hammer_and_wrench: Lenguajes y Herramientas:
+## :hammer_and_wrench: Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
@@ -28,7 +28,7 @@ Soy Desarrollador Web Full Stack e Ingeniero Industrial, me encanta aplicar lóg
 
 ---
 
-## :envelope: ¿Querés saber más sobre mí? ¡Contactame!
+## :envelope: Contact:
 
 <span >
   <a href="mailto:matibalbi@gmail.com">
