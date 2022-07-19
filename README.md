@@ -5,6 +5,8 @@
 
 Soy Desarrollador Web Full Stack e Ingeniero Industrial, me encanta aplicar la lógica y creatividad para resolver problemas y optimizar procesos. Recientemente me egresé del bootcamp de programación de Henry y actualmente estoy buscando mi primera oportunidad laboral en este rubro donde pueda aplicar todos los conocimientos aprendidos y continuar formándome profesionalmente dentro de este maravilloso mundo.
 
+---
+
 ## :hammer_and_wrench: Lenguajes y Herramientas:
 
 <div>
@@ -23,6 +25,8 @@ Soy Desarrollador Web Full Stack e Ingeniero Industrial, me encanta aplicar la l
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>
 </div>
+
+---
 
 ## :envelope: ¿Querés saber más sobre mí? ¡Contactame!
 
