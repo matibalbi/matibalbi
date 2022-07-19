@@ -34,7 +34,7 @@ Soy Desarrollador Web Full Stack e Ingeniero Industrial, me encanta aplicar la l
   <a href="mailto:matibalbi@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/matiasbalbi">
+  <a href="https://www.linkedin.com/in/matiasbalbi/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </span>
