@@ -3,7 +3,7 @@
 
 ## :man_technologist: About:
 
-I'm a Full Stack Web Developer and Industrial Engineer, I love to apply logic and creativity to solve problems and optimize processes. Recently I graduated from Henry Bootcamp and I'm currently looking for my first job opportunity as a devoloper where I can apply all the skills learned and continue to grow professionally in the amazing world of technology.
+I'm a Full Stack Developer and Industrial Engineer, I love to apply logic and creativity to solve problems and optimize processes. Recently I graduated from Henry Bootcamp and I'm currently looking for my first job opportunity as a devoloper where I can apply all the skills learned and continue to grow professionally in the amazing world of technology.
 
 ---
 
