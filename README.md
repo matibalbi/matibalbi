@@ -3,7 +3,7 @@
 
 ## :man_technologist: ¿Quién soy?
 
-Soy Desarrollador Web Full Stack e Ingeniero Industrial, me encanta aplicar la lógica y creatividad para resolver problemas y optimizar procesos. Recientemente me egresé del bootcamp de programación de Henry y actualmente estoy buscando mi primera oportunidad laboral en este rubro donde pueda aplicar todos los conocimientos aprendidos y continuar formándome profesionalmente dentro de este maravilloso mundo.
+Soy Desarrollador Web Full Stack e Ingeniero Industrial, me encanta aplicar lógica y creatividad para resolver problemas y optimizar procesos. Recientemente me egresé del bootcamp de programación de Henry y actualmente estoy buscando mi primera oportunidad laboral en este rubro donde pueda aplicar todos los conocimientos aprendidos y continuar formándome profesionalmente dentro de este maravilloso mundo.
 
 ---
 
